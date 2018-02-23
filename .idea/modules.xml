@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Distributed Systems Programming.iml" filepath="$PROJECT_DIR$/Distributed Systems Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiCar.iml" filepath="$PROJECT_DIR$/MultiCar.iml" />
     </modules>
   </component>
 </project>
